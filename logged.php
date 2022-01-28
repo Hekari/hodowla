@@ -92,7 +92,7 @@
                                 $a = 0;
                                 $c = 4 * $num;
                                 $fileName = $array[2 + $c];
-                                $dir = trim("C:\\xampp\htdocs\chuj\img\\".$fileName."");
+                                $dir = trim(".\img\\".$fileName."");
                                 
                                 unlink("$dir");
                                 // unlink('C:\xampp\htdocs\chuj\img\\'.$fileName);
@@ -126,7 +126,7 @@
 
         if($_SESSION['zalogowano'] == 1){
             if(isset($_POST["submit"])){
-                $directory = "..\chuj\img\ ";
+                $directory = ".\chuj\img\ ";
                 $directory = str_replace(" ", '', $directory);
                 $file = $directory . basename($_FILES["fileUpload"]["name"]);
                 $uploadOk = 1;
