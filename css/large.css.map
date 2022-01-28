@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AAAA,AAAA,QAAQ,CAAA;EACJ,OAAO,EAAE,IAAI,CAAA,UAAU;CAC1B",
     "sources": [
         "../large.scss"
     ],
