@@ -1,0 +1,7 @@
+Skrypt zapisuje obraz do folderu img, a do tego do pliku baza.txt tytuł, opis, nazwe pliku, i date dodania
+
+Pierwsza linijka to tytuł
+Druga linijka to opis
+Trezcia linjka to nazwa pliku
+Czwarta linijka to data dodania
+i tak dalej, piąta to drugi tytuł...

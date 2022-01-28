@@ -1,0 +1,12 @@
+szmon to giga kox 
+nie no co ty 
+thic szymon.png 
+2022/01/28
+wszystko działa es 
+Skrypt zapisuje obraz do folderu img, a do tego do pliku baza.txt tytuł, opis, nazwe pliku, i date dodaniaPierwsza linijka to tytułDruga linijka to opisTrezcia linjka to nazwa plikuCzwarta linijka to data dodaniai tak dalej, piąta to drugi tytuł... 
+czołgista.png 
+2022/01/28
+nie no es, tak łatwo 
+tylko jakieś 10h roboty 
+fedora.png 
+2022/01/28
