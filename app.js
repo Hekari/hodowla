@@ -6,6 +6,7 @@ const hamburger_Close=document.querySelector(".fa-times")
 const burger = () => {
     hamburger_Close.classList.toggle("hide")
     hamburger_Visible.classList.toggle("hide")
+    hamburger.classList.toggle("center")
     ul.classList.toggle("active")
 
 }

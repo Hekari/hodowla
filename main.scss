@@ -19,22 +19,13 @@ header{
     text-decoration: none;
 }
 
-
 .fa-bars{
-    position: absolute;
-    left: 5vw;
-    top: 2vh;
     color: gold;
     font-size: 28px;
 }
 .fa-times{
-    z-index: 1;
-    position: absolute;
-    left: 26vw;
-    top: 5vh;
     color: gold;
     font-size: 28px;
-    transition: .3s;
 }
 .fa-dog{
     color: white;
@@ -44,6 +35,9 @@ header{
     transform: translateY(-10px);
 }
 .burger{
+    padding: 10px 20px;
+    top: 0;
+    left: 0;
     position: absolute;
     text-align: center;
     background: none;
@@ -79,4 +73,8 @@ li a:hover{
 }
 .active{
     transform: translateX(350px);
+}
+.center{
+    z-index: 1;
+    transform:translateX(300px)
 }
