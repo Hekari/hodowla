@@ -1,1 +1,20 @@
-/* No CSS *//*# sourceMappingURL=medium.css.map */
+.fa-bars {
+  display: none;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.fa-times {
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.hide {
+  display: none;
+}
+
+.active {
+  -webkit-transform: translateX(350px);
+          transform: translateX(350px);
+}
+/*# sourceMappingURL=medium.css.map */

@@ -1,4 +1,20 @@
 .fa-bars {
-  display: inline-block !important;
+  display: inline-block;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.fa-times {
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.hide {
+  display: none;
+}
+
+.active {
+  -webkit-transform: translateX(350px);
+          transform: translateX(350px);
 }
 /*# sourceMappingURL=small.css.map */
